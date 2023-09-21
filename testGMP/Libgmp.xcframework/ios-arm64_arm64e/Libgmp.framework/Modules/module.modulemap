@@ -1,0 +1,4 @@
+framework module Libgmp [system] {
+          umbrella "."
+          export *
+}
